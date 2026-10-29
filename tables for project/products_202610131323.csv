@@ -1,0 +1,11 @@
+"product_id","product_name","category","amount","price"
+1,Keyboard,Electronics,10,900
+2,Mouse,Electronics,25,500
+3,Monitor,Electronics,8,15000
+4,Laptop,Electronics,5,65000
+5,Headphones,Electronics,15,3500
+6,Webcam,Electronics,12,2500
+7,Office Chair,Furniture,7,12000
+8,Computer Desk,Furniture,6,18000
+9,SSD 1TB,Computer Parts,20,7000
+10,Microphone,Electronics,9,8000

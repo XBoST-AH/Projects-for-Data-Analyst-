@@ -1,0 +1,21 @@
+"payment_id","order_id","payment_date","payment_method","amount","payment_status"
+1,1,2026-07-05,Card,1900.00,Completed
+2,2,2026-07-08,PayPal,15000.00,Completed
+3,3,2026-07-12,Card,6000.00,Completed
+4,4,2026-07-18,Bank Transfer,65000.00,Completed
+5,5,2026-07-22,Card,14900.00,Completed
+6,6,2026-07-27,PayPal,12000.00,Completed
+7,7,2026-08-02,Card,18500.00,Completed
+8,8,2026-08-06,Cash,8000.00,Completed
+9,9,2026-08-10,Bank Transfer,33500.00,Completed
+10,10,2026-08-15,Card,5000.00,Completed
+11,11,2026-08-21,PayPal,2300.00,Completed
+12,12,2026-08-25,Card,7000.00,Refunded
+13,13,2026-09-01,Bank Transfer,73000.00,Completed
+14,14,2026-09-06,Card,7000.00,Pending
+15,15,2026-09-11,PayPal,30000.00,Completed
+16,16,2026-09-16,Card,1500.00,Completed
+17,17,2026-09-22,Bank Transfer,17500.00,Completed
+18,18,2026-09-27,PayPal,7000.00,Pending
+19,19,2026-10-02,Card,16900.00,Completed
+20,20,2026-10-05,Card,18000.00,Failed
